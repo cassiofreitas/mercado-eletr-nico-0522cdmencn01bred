@@ -1,6 +1,5 @@
-
+// Declaração de uma array
 let frutas = ["banana", "maçã", "pêra", "goiaba"];
-
 // Tamanho da minha Array
 frutas.length;
 // Acessar pelo índice

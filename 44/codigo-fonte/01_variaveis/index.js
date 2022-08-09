@@ -16,7 +16,7 @@
 
 // Constantes, após inicializadas não permite atualização.
 const empresa = "";
-
+// Nota: Esta instrução foi comendada pois retornaria erro.
 // empresa = "novo valor";
 
 console.log("Variáveis com var", mensagem);
